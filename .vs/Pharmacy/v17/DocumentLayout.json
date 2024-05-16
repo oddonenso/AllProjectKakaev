@@ -1,0 +1,831 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A58F45-3A06-42C5-B4B9-532FFBF2B0E2}|Autho\\Autho.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\autho\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A58F45-3A06-42C5-B4B9-532FFBF2B0E2}|Autho\\Autho.csproj|solutionrelative:autho\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A58F45-3A06-42C5-B4B9-532FFBF2B0E2}|Autho\\Autho.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\autho\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2A58F45-3A06-42C5-B4B9-532FFBF2B0E2}|Autho\\Autho.csproj|solutionrelative:autho\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A58F45-3A06-42C5-B4B9-532FFBF2B0E2}|Autho\\Autho.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\autho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A58F45-3A06-42C5-B4B9-532FFBF2B0E2}|Autho\\Autho.csproj|solutionrelative:autho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pharmacy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pharmacy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\invite.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\invite.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\data\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\data\\qualitycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\qualitycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\data\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\migrations\\20240513054322_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\migrations\\20240513054322_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\data\\ideliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\ideliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\autho.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\autho.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\newpass.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\newpass.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\forgotpass.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\forgotpass.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\migrations\\connectionmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\migrations\\connectionmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\forgotpass.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\forgotpass.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\newpass.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\newpass.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\data\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\data\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\data\\pickuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\pickuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\data\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\data\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\data\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\data\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\employee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\employee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\employee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\employee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\redactdelivery.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\redactdelivery.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\redactdelivery.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\redactdelivery.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\orderdelivery.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\orderdelivery.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\orderdelivery.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\orderdelivery.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\warehouseemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\warehouseemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\invitedelivery.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\invitedelivery.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\invitedelivery.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\invitedelivery.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\invitesupplier.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\invitesupplier.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\invitewarehouse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\invitewarehouse.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Migrations\\20240328062045_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pharmacy\\Migrations\\20240328062045_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Migrations\\20240328051105_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pharmacy\\Migrations\\20240328051105_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\inviteproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\inviteproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\inviteproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\inviteproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\invitesale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\invitesale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\invitesupplier.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\invitesupplier.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\pharmacy\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|c:\\users\\qwerty\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0443\u0447.\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\pharmacy\\pharmacy\\pages\\invitewarehouse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57225F66-BA50-411A-BB56-8CCBF85C6D31}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pages\\invitewarehouse.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Employee.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\Employee.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\Employee.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\Employee.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\Pages\\Employee.xaml.cs",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAAAP4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:02:31.79Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Autho\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Autho\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Autho\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Autho\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:18:43.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Autho\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Autho\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Autho\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Autho\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T14:18:38.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Autho\\Program.cs",
+              "RelativeDocumentMoniker": "Autho\\Program.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Autho\\Program.cs",
+              "RelativeToolTip": "Autho\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:18:29.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAE0HAAAAAAAAAAAEwE4HAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-15T08:04:31.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pharmacy.csproj",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pharmacy.csproj",
+              "RelativeDocumentMoniker": "Pharmacy\\Pharmacy.csproj",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pharmacy.csproj",
+              "RelativeToolTip": "Pharmacy\\Pharmacy.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T08:01:30.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\Admin.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\Admin.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\Pages\\Admin.xaml.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAuwNsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:35:19.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Autho.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\Autho.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\Autho.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\Autho.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\Pages\\Autho.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:35:02.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeliveryService.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\DeliveryService.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\DeliveryService.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\DeliveryService.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\DeliveryService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowFUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:51:49.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDeliveryService.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\IDeliveryService.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\IDeliveryService.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\IDeliveryService.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\IDeliveryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:52:37.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\Admin.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\Admin.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\Admin.xaml",
+              "RelativeToolTip": "Pharmacy\\Pages\\Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T13:14:19.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\User.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\User.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\User.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\User.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvzUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:52:55.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\Connection.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\Connection.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\Connection.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\Connection.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:09:07.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invite.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\Invite.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\Invite.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\Invite.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\Pages\\Invite.xaml.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAwwL8AAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:00:24.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QualityControl.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\QualityControl.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\QualityControl.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\QualityControl.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\QualityControl.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:07:00.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240513054322_initial.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Migrations\\20240513054322_initial.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Migrations\\20240513054322_initial.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Migrations\\20240513054322_initial.cs",
+              "RelativeToolTip": "Pharmacy\\Migrations\\20240513054322_initial.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAQwIYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:36:01.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NewPass.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\NewPass.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\NewPass.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\NewPass.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\Pages\\NewPass.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:18:07.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ForgotPass.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\ForgotPass.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\ForgotPass.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\ForgotPass.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\Pages\\ForgotPass.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwC4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:13:56.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConnectionModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Migrations\\ConnectionModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Migrations\\ConnectionModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Migrations\\ConnectionModelSnapshot.cs",
+              "RelativeToolTip": "Pharmacy\\Migrations\\ConnectionModelSnapshot.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T05:39:41.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ForgotPass.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\ForgotPass.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\ForgotPass.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\ForgotPass.xaml",
+              "RelativeToolTip": "Pharmacy\\Pages\\ForgotPass.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T16:11:36.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\Sale.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\Sale.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\Sale.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\Sale.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:51:30.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NewPass.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\NewPass.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\NewPass.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\NewPass.xaml",
+              "RelativeToolTip": "Pharmacy\\Pages\\NewPass.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T16:16:48.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\Delivery.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\Delivery.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\Delivery.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\Delivery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:06:40.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PickupRequest.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\PickupRequest.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\PickupRequest.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\PickupRequest.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\PickupRequest.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:50:58.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\Supplier.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\Supplier.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\Supplier.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\Supplier.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:07:10.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\Warehouse.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\Warehouse.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\Warehouse.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\Warehouse.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:05:39.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\Product.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\Product.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\Product.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:06:59.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\Gender.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\Gender.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\Gender.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:25:47.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\Role.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\Role.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Data\\Role.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:53:42.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Employee.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\Employee.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\Employee.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\Employee.xaml",
+              "RelativeToolTip": "Pharmacy\\Pages\\Employee.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T13:58:40.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RedactDelivery.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\RedactDelivery.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\RedactDelivery.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\RedactDelivery.xaml",
+              "RelativeToolTip": "Pharmacy\\Pages\\RedactDelivery.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-30T08:56:40.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RedactDelivery.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\RedactDelivery.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\RedactDelivery.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\RedactDelivery.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\Pages\\RedactDelivery.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T09:30:26.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderDelivery.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\OrderDelivery.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\OrderDelivery.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\OrderDelivery.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\Pages\\OrderDelivery.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T07:19:56.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderDelivery.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\OrderDelivery.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\OrderDelivery.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\OrderDelivery.xaml",
+              "RelativeToolTip": "Pharmacy\\Pages\\OrderDelivery.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-29T07:17:06.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\MainWindow.xaml",
+              "RelativeToolTip": "Pharmacy\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T15:33:50.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WarehouseEmployee.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\WarehouseEmployee.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\WarehouseEmployee.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\WarehouseEmployee.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\Pages\\WarehouseEmployee.xaml.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwGEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:25:16.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "InviteDelivery.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteDelivery.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\InviteDelivery.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteDelivery.xaml",
+              "RelativeToolTip": "Pharmacy\\Pages\\InviteDelivery.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-29T04:49:43.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InviteDelivery.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteDelivery.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\InviteDelivery.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteDelivery.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\Pages\\InviteDelivery.xaml.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAADwv28AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T05:55:38.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InviteSupplier.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteSupplier.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\InviteSupplier.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteSupplier.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\Pages\\InviteSupplier.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:08:10.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "InviteWarehouse.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteWarehouse.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\InviteWarehouse.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteWarehouse.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\Pages\\InviteWarehouse.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:13:05.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Registration.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\Registration.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\Registration.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\Registration.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\Pages\\Registration.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:11:38.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Registration.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\Registration.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\Registration.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\Registration.xaml",
+              "RelativeToolTip": "Pharmacy\\Pages\\Registration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T04:10:42.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "InviteSale.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteSale.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\InviteSale.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteSale.xaml",
+              "RelativeToolTip": "Pharmacy\\Pages\\InviteSale.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T03:41:30.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "InviteProduct.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteProduct.xaml.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\InviteProduct.xaml.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteProduct.xaml.cs",
+              "RelativeToolTip": "Pharmacy\\Pages\\InviteProduct.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:18:18.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "InviteProduct.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteProduct.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\InviteProduct.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteProduct.xaml",
+              "RelativeToolTip": "Pharmacy\\Pages\\InviteProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T14:13:34.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "InviteSupplier.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteSupplier.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\InviteSupplier.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteSupplier.xaml",
+              "RelativeToolTip": "Pharmacy\\Pages\\InviteSupplier.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T02:57:49.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "InviteWarehouse.xaml",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteWarehouse.xaml",
+              "RelativeDocumentMoniker": "Pharmacy\\Pages\\InviteWarehouse.xaml",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Pages\\InviteWarehouse.xaml",
+              "RelativeToolTip": "Pharmacy\\Pages\\InviteWarehouse.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T14:11:05.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240328062045_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Migrations\\20240328062045_Initial.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Migrations\\20240328062045_Initial.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Migrations\\20240328062045_Initial.cs",
+              "RelativeToolTip": "Pharmacy\\Migrations\\20240328062045_Initial.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAQwEcBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:20:46.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240328051105_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Migrations\\20240328051105_Initial.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Migrations\\20240328051105_Initial.cs",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Migrations\\20240328051105_Initial.cs",
+              "RelativeToolTip": "Pharmacy\\Migrations\\20240328051105_Initial.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAQwH4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T05:11:06.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Pharmacy\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\qwerty\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0434\u043B\u044F \u0448\u0430\u0440\u0430\u0433\u0438\\\u0423\u0447.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Pharmacy\\Pharmacy\\Properties\\Resources.resx",
+              "RelativeToolTip": "Pharmacy\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-26T14:16:36.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

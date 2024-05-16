@@ -1,0 +1,54 @@
+﻿<Page x:Class="Pharmacy.Pages.WarehouseEmployee"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Pharmacy.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="WarehouseEmployee">
+
+    <Page.Resources>
+        <!-- DataTemplate for displaying product images -->
+        <DataTemplate x:Key="ProductImageTemplate">
+            <Image Source="{Binding Photo}" Loaded="Image_Loaded" Width="50" Height="50" />
+        </DataTemplate>
+    </Page.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <!-- ComboBox for selecting different tables -->
+        <ComboBox x:Name="cmbTables" Grid.Row="0" SelectedIndex="0" VerticalAlignment="Center" Margin="5" SelectionChanged="cmbTables_SelectionChanged">
+            <ComboBoxItem>Delivery</ComboBoxItem>
+            <ComboBoxItem>Warehouse</ComboBoxItem>
+            <ComboBoxItem>Supplier</ComboBoxItem>
+            <ComboBoxItem>PickupRequst</ComboBoxItem>
+        </ComboBox>
+        <!-- ListView with GridView added -->
+        <ListView x:Name="ListViewData" Grid.Row="1" Margin="5">
+            <ListView.Resources>
+                <Style TargetType="GridViewColumnHeader">
+                    <Setter Property="HorizontalContentAlignment" Value="Left"/>
+                </Style>
+            </ListView.Resources>
+            <ListView.View>
+                <GridView x:Name="GridViewColumns">
+                    <!-- Fragment for displaying product images -->
+                    <GridViewColumn Header="Photo">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Width="50" Height="50" Loaded="Image_Loaded" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <!-- Additional columns will appear here -->
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <!-- Button for adding a-->
+        <Button x:Name="btnAdd" Content="Добавить" Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="5" Click="btnAdd_Click"/>
+    </Grid>
+</Page>

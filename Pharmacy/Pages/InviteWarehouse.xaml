@@ -1,0 +1,42 @@
+﻿<Page x:Class="Pharmacy.Pages.InviteWarehouse"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Pharmacy.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="InviteWarehouse">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="260"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="260"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Fields -->
+        <StackPanel Grid.Column="0" VerticalAlignment="Center">
+            <TextBlock Text="Название склада*" Height="30" Margin="50, 20, 5, 0"/>
+            <TextBlock Text="Адрес*" Height="30" Margin="50, 20, 5, 0"/>
+            <TextBlock Text="Количество товаров*" Height="30" Margin="50, 20, 5, 0"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1" VerticalAlignment="Center">
+            <TextBox x:Name="tbWarehouseName" Height="30" Margin="0, 20, 0, 0"/>
+            <TextBox x:Name="tbAddress" Height="30" Margin="0, 20, 0, 0"/>
+            <TextBox x:Name="tbQuantityOfGoods" Height="30" Margin="0, 20, 0, 0"/>
+        </StackPanel>
+        <StackPanel Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Image x:Name="ImageWarehouse" MaxHeight="150" Source="C:\Users\qwerty\Desktop\программы и работы для шараги\Уч.Практика\Pharmacy\Pharmacy\Resources\default_warehouse.jpg"/>
+            <Button x:Name="AddWarehouseImage" Content="Добавить фото" Click="AddWarehouseImage_Click"/>
+        </StackPanel>
+
+        <!-- Buttons -->
+        <Button x:Name="BtnSave" Grid.Row="2" Grid.ColumnSpan="3" Content="Сохранить" Click="BtnSave_Click" Height="40" Margin="50,5,50,5"/>
+    </Grid>
+</Page>

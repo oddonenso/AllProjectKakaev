@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pharmacy", "Pharmacy\Pharmacy.csproj", "{57225F66-BA50-411A-BB56-8CCBF85C6D31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autho", "Autho\Autho.csproj", "{B2A58F45-3A06-42C5-B4B9-532FFBF2B0E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57225F66-BA50-411A-BB56-8CCBF85C6D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57225F66-BA50-411A-BB56-8CCBF85C6D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57225F66-BA50-411A-BB56-8CCBF85C6D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57225F66-BA50-411A-BB56-8CCBF85C6D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A58F45-3A06-42C5-B4B9-532FFBF2B0E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A58F45-3A06-42C5-B4B9-532FFBF2B0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A58F45-3A06-42C5-B4B9-532FFBF2B0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A58F45-3A06-42C5-B4B9-532FFBF2B0E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E23DC20-7441-40A2-B5FB-A8010504E6B5}
+	EndGlobalSection
+EndGlobal
